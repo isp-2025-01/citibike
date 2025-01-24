@@ -5,14 +5,6 @@ execute:
   warning: false
 ---
 
-```{r}
-library(tidyverse)
-library(gganimate)
-library(sf)
-library(mapview)
-library(lubridate)
-```
-
 
 ![Citi Bike Rides in June 2024](citibike_june_2024.gif)
 
