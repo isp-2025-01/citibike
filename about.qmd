@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+My name is David Kane, and I am an instructor at New College of Florida. [This is the location](https://github.com/isp-2025-01/citibike) of the GitHub repo for this project. The data for the project comes from the [system data page](
+System Data) for the Citibike program. The repo includes all the code for replicating the analysis on this website. It does not include the raw data, which you would need to download yourself. I made extensive use of [Deep Seek](https://www.deepseek.com/).
+
+# History of the Citi Bike Program
+
+The **Citi Bike program**, launched on **May 27, 2013**, is one of the largest and most successful bike-sharing systems in the United States. It began in **New York City** as a public-private partnership between the city’s Department of Transportation and **Alta Bicycle Share** (later replaced by **Motivate** and then **Lyft**). The program was sponsored by **CitiBank**, which contributed $41 million in initial funding, earning naming rights for the system.
+
+Citi Bike started with **6,000 bikes** and **330 docking stations** across Manhattan and parts of Brooklyn. Its goal was to provide an affordable, sustainable, and convenient transportation option for New Yorkers and visitors, reducing traffic congestion and carbon emissions. Despite early challenges, including software glitches and supply shortages, the program quickly gained popularity, with over **100,000 annual members** in its first year.
+
+By **2019**, Citi Bike had expanded to over **12,000 bikes** and **750 stations**, covering Manhattan, Brooklyn, Queens, and Jersey City. The introduction of **electric bikes (e-bikes)** in 2018 further boosted ridership, offering a faster and more accessible option for riders. In **2020**, Lyft acquired Motivate and integrated Citi Bike into its transportation ecosystem, expanding the program’s reach and technological capabilities.
+
+Today, Citi Bike is a cornerstone of New York City’s transportation network, with over **25,000 bikes** and **1,500 stations** across all five boroughs. It has facilitated millions of rides annually, promoting healthier lifestyles, reducing reliance on cars, and contributing to the city’s sustainability goals. The program’s success has inspired similar bike-sharing initiatives in cities worldwide, solidifying its legacy as a pioneer in urban mobility.
+
